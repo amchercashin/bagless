@@ -1,0 +1,63 @@
+body {
+    /* background-image: url(https://source.unsplash.com/UTVX-x6TqWo); */
+    /* background-image: url(https://source.unsplash.com/4sd8uKS3nM0); */
+    /* background-image: url(https://source.unsplash.com/K9BOrwoFVYc/2400x1800); */
+    /* background-image: url(https://source.unsplash.com/0hkd3waz4H4/4522x3280); */
+    /* background-image: url(https://source.unsplash.com/67GC0YaeGQc); */
+    background-image: url(https://source.unsplash.com/wC8ADhAWnh4/4000x2200);
+
+    background-size: cover;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-color: #E8EEFA; */
+    /* color: white; */
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.nav-item {
+    font-weight: 500;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+
+.content{
+	padding-top: 12%;
+	text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+/* .navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: white;
+
+} */
+
+/* #content>h1 {
+    font-weight: 700;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.7),
+                 0px 8px 13px rgba(0,0,0,0.3),
+                 0px 18px 23px rgba(0,0,0,0.3);
+} */
+/* 
+img {
+	width: 100%;
+}
+div {
+	border: 1px solid black;
+	height: 100px;
+} */
