@@ -7,16 +7,16 @@ body {
     background-image: url(https://source.unsplash.com/wC8ADhAWnh4/4000x2200);
 
     background-size: cover;
-    /* background-position: center; */
+    background-position: center;
     /* background-repeat: no-repeat; */
     /* background-color: #E8EEFA; */
     /* color: white; */
 }
 
-/* html {
+html {
     height: 100%;
     width: 100%;
-} */
+}
 
 .nav-item {
     font-weight: 500;
